@@ -21,10 +21,10 @@ export function AppInfoPopover() {
           {/* Header Section */}
           <div className="space-y-3">
             <h3 className="text-lg font-semibold text-foreground">
-              Strudel Flow
+              Strudel Lab
             </h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              The Strudel Flow is built with{' '}
+              The Strudel Lab is built with{' '}
               <a
                 href="https://reactflow.dev/"
                 className="text-primary hover:underline font-medium"

@@ -1,6 +1,6 @@
 {
   "id": "strudel-flow",
-  "name": "Strudel Flow",
+  "name": "Strudel Lab",
   "skipBuild": true,
   "description": "A visual drum machine and pattern sequencer built with Strudel and React Flow.",
   "tags": [],
